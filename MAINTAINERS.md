@@ -3,8 +3,6 @@
 ## The team
 
 - William Chang [@wwwy3y3](https://github.com/wwwy3y3)
-- Michael Schmid [@Schnitzel](https://github.com/Schnitzel)
-
 ## Originally developed by
 
 This repo is originally developed by [Canner](https://www.cannercms.com) and [InfuseAI](https://infuseai.io) before being transferred under Keycloak organization.
